@@ -1,0 +1,6 @@
+*********** Payment List (2023_07_26) ***********
+Order ID:1111  StaffName:Shiv Kumar                    Work time:5.0  Pay:67.5
+Order ID:1212  StaffName:Mukesh Rathi                     Work time:3.5  Pay:49.0
+Order ID:5555  StaffName:Joseph Dsilva                Work time:5.5  Pay:110.0
+-------------------------------------------------------
+Total payment:₹226.5(3)

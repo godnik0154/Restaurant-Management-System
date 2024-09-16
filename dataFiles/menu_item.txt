@@ -1,0 +1,13 @@
+101,Pizza,42,1
+102,Mushroom pasta,35.7,1
+103,Meatball pasta,39,1
+104,Cheese Ravioli,35.7,1
+200,Milk,21,2
+201,Coke,21,2
+202,Sprite,21,2
+203,Tea,24,2
+302,Glass wine red,42,3
+303,Bottle wine white,180,3
+304,Bottle wine red,180,3
+401,Tiramisu,36,4
+402,Ice cream,30,4

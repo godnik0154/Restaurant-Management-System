@@ -1,0 +1,6 @@
+*********** Payment List (2023_08_15) ***********
+Order ID:1111  StaffName:Shiv Kumarole                 Work time:0.00  Pay:0.00 
+Order ID:1212  StaffName:Mukesh Rathi                     Work time:0.00  Pay:0.00 
+Order ID:5555  StaffName:Joseph Dsilva                Work time:0.00  Pay:110.00
+-------------------------------------------------------
+Total payment:₹110.0(3)
