@@ -1,4 +1,4 @@
-#Demo Images
+<h1>Demo Images</h1>
 
 ![plot](./demo_images/Image1.png)
 
